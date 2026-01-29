@@ -1,0 +1,2 @@
+obulys = "obuoliukai"
+print(obulys)
